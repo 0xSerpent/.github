@@ -1,3 +1,7 @@
-## In case of an investigation by any federal entity or similar, I do not have any involvement with this group or with the people in it, I do not know how I am here, probably added by a thrid party, I do not support any actions by the member of this group. 
+# Serpent
 
-### we make things
+### We develop tools for "Red Teaming"
+### If you saw our name anywhere else (specifically on not-so-legal forums), we are not them! We have not attacked any sites, or created any malicious programs for threat-actors to use. This is a campaign to ruin our reputation! We are a purely legal group.
+
+
+### Most of our repos are private. If you'd like to enquire about what we create, DM me on Telegram: https://t.me/x0xStealth or on discord @stealth.ille.gal
